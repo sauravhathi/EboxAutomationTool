@@ -28,13 +28,21 @@ This tool is used to automate the process of solving questions on the Ebox platf
 3. When page loads automatically, the tool will capture the question and generate the answer.
 4. View the answer press `Win + V`.
 5. To generate the answer, press `Alt + Z`.
-6. To generate the answer from the `Code Editor` or Mcq/Single Choice question, press `Alt + W`.
-7. To edit the web page content, `double click` on the content and edit it as per your requirement and copy the content then press `Alt + w` to generate the answer.
+6. To generate the answer from the `Code Editor` or Mcq/Single Choice question, press `Alt + W` (Real-time chat allowed).
+7. To edit the web page content, `double click` on the content and edit it as per your requirement and copy the content then press `Alt + w` to generate the answer (Real-time chat allowed).
 
 ## Alternative shortcuts
 
 Use `Ctrl + Alt + W` to generate the answer from the `Code Editor` or Mcq/Single Choice question.
 and use `Ctrl + Alt + Z` to generate the answer from the current page content.
+
+### Enable the Clipboard API
+
+Click on lock icon in the address bar and enable the clipboard API.
+
+![image](https://github.com/sauravhathi/em/assets/61316762/ecc93024-eb7d-4359-920f-1975c282ed47)
+
+`Note:` If the above option is not visible then go to `Site Settings`.
 
 ## Support the Developer
 
