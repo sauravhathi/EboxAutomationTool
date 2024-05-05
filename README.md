@@ -48,4 +48,4 @@ Donate: `saurav.34@paytm`
 
 ## License
 
-This project is licensed under the MIT License. Refer to the [LICENSE](https://github.com/sauravhathi/EboxAutomationTool/blob/main/LICENSE) file for more information.
+This project is licensed under the Mozilla Public License. Refer to the [LICENSE](https://github.com/sauravhathi/EboxAutomationTool/blob/main/LICENSE) file for more information.
