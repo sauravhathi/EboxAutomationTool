@@ -23,6 +23,8 @@ This tool is used to automate the process of solving questions on the Ebox platf
 5. Click on `Load unpacked`.
 6. Select the `EboxAutomationTool` folder.
 
+Install the absolute-enable-right extension: https://chromewebstore.google.com/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika
+
 ## Usage
 
 1. Open the Ebox platform.
