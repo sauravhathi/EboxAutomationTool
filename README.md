@@ -13,7 +13,13 @@ This tool is used to automate the process of solving questions on the Ebox platf
 - Supports multiple-choice questions.
 - Supports code-based questions.
 - Web page content editable (copy the content and generate the answer).
- 
+
+## Demo (YouTube)
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=WnhD92Hdpi0"><img src="https://i.ytimg.com/vi/qsQpGkrdYpA/hqdefault.jpg" alt="Ebox Automation Extension"></a>
+</div>
+
 ## Installation
 
 1. Clone or download the repository.
