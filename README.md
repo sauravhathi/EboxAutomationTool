@@ -17,7 +17,7 @@ This tool is used to automate the process of solving questions on the Ebox platf
 ## Demo (YouTube)
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=WnhD92Hdpi0"><img src="https://i.ytimg.com/vi/qsQpGkrdYpA/hqdefault.jpg" alt="Ebox Automation Extension"></a>
+  <a href="https://www.youtube.com/watch?v=qsQpGkrdYpA"><img src="https://i.ytimg.com/vi/qsQpGkrdYpA/hqdefault.jpg" alt="Ebox Automation Extension"></a>
 </div>
 
 ## Installation
